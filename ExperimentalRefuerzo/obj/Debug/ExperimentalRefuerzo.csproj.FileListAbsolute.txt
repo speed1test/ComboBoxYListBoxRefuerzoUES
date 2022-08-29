@@ -1,0 +1,11 @@
+C:\Users\edwin\source\repos\ExperimentalRefuerzo\ExperimentalRefuerzo\bin\Debug\ExperimentalRefuerzo.exe.config
+C:\Users\edwin\source\repos\ExperimentalRefuerzo\ExperimentalRefuerzo\bin\Debug\ExperimentalRefuerzo.exe
+C:\Users\edwin\source\repos\ExperimentalRefuerzo\ExperimentalRefuerzo\bin\Debug\ExperimentalRefuerzo.pdb
+C:\Users\edwin\source\repos\ExperimentalRefuerzo\ExperimentalRefuerzo\obj\Debug\ExperimentalRefuerzo.csproj.AssemblyReference.cache
+C:\Users\edwin\source\repos\ExperimentalRefuerzo\ExperimentalRefuerzo\obj\Debug\ExperimentalRefuerzo.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwin\source\repos\ExperimentalRefuerzo\ExperimentalRefuerzo\obj\Debug\ExperimentalRefuerzo.Form1.resources
+C:\Users\edwin\source\repos\ExperimentalRefuerzo\ExperimentalRefuerzo\obj\Debug\ExperimentalRefuerzo.Properties.Resources.resources
+C:\Users\edwin\source\repos\ExperimentalRefuerzo\ExperimentalRefuerzo\obj\Debug\ExperimentalRefuerzo.csproj.GenerateResource.cache
+C:\Users\edwin\source\repos\ExperimentalRefuerzo\ExperimentalRefuerzo\obj\Debug\ExperimentalRefuerzo.csproj.CoreCompileInputs.cache
+C:\Users\edwin\source\repos\ExperimentalRefuerzo\ExperimentalRefuerzo\obj\Debug\ExperimentalRefuerzo.exe
+C:\Users\edwin\source\repos\ExperimentalRefuerzo\ExperimentalRefuerzo\obj\Debug\ExperimentalRefuerzo.pdb
